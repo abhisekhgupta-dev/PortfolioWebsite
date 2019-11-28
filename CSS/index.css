@@ -1,0 +1,44 @@
+@import "main.css";
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+h1
+{
+
+    color:#AEB6BF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    padding-left: 100px;
+    padding-top: 130px;
+    padding-right: 100px;
+
+}
+
+span
+{
+    color:#283747;
+
+}
+
+p
+{
+    color:#85929E;
+    font-family: 'Roboto', sans-serif;
+    font-size:x-large;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-right: 100px;
+}
+
+p > span > a
+{
+    font-size:x-large;
+    text-decoration: none; 
+    color:#283747;
+    font-weight: bold;
+}
+
+p > span > a:hover
+{
+    box-shadow: 0 8px 6px -6px #DCB720;
+}
+

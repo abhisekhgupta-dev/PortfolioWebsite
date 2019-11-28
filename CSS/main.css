@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+#Namelogo
+{
+    padding-top: 50px;
+    padding-left: 140px; 
+}
+
+#Namelogo > a
+{
+    color:#504F4F;
+    font-family: 'Roboto', sans-serif;
+    font-size:x-large;  
+    text-decoration: none;  
+    box-shadow: 0 8px 6px -6px #DCB720;
+}
+#Namelogo > a > .logocolor
+{
+    color: #DCB720;
+}
+
+nav
+{
+    float: right;
+    padding-right: 70px;
+}
+
+nav > ul > li
+{
+    list-style: none;
+    padding: 50px 15px 0px 15px;
+    float: left;
+}
+
+nav > ul >li > a
+{
+    color:#504F4F;
+    font-family: 'Roboto', sans-serif;
+    font-size:large;  
+    text-decoration: none;  
+    box-shadow: 0 8px 6px -6px #B9B9B9;
+}
+
+.Active
+{
+    color: #DCB720;
+}
+
+footer 
+{
+    padding-left: 35px;
+}
+
+footer > ul > li
+{
+    list-style: none;
+    padding: 70px 15px 50px 15px;
+    float: left;
+}
+
+footer > ul >li > a
+{
+    color:#504F4F;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;  
+    text-decoration: none;
+}
+
+footer > ul >li > a:hover
+{
+    box-shadow: 0 8px 6px -6px #B9B9B9;
+}
+
